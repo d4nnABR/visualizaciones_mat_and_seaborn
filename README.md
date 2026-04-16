@@ -1,6 +1,7 @@
 # Lab 8 — Visualización de Datos con Matplotlib y Seaborn
 
 Ejercicio práctico de exploración de librerías de visualización en Python.
+
 Se generan **8 gráficos con Matplotlib** y **12 gráficos con Seaborn** a partir
 de un dataset simulado de ventas, analizando cada gráfico según su tipo,
 propósito y audiencia objetivo.
